@@ -6,7 +6,7 @@ body {
 }
 
 .container {
-  max-width: 600px;
+  max-width: 880px;
   margin: 40px auto;
   background: #fff;
   padding: 20px;
@@ -43,7 +43,7 @@ h1 {
   text-align: right;
 }
 
-.message.bot {
+.message.model {
   background-color: #dff6dd;
   float: left;
   text-align: left;
